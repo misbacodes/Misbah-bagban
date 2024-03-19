@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="width:'100px',height:'24px'">
   <img src="https://cdn.dribbble.com/users/106272/screenshots/1874860/hey-there.gif"/>
 </p>
 <!---
