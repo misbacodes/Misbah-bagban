@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/106272/screenshots/1874860/hey-there.gif"  height= "64"/>
-</p>
-
+# Hi there!!
 
 * 👂 My name is Misba
 * 🌱 I’m currently learning Javascript
